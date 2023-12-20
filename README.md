@@ -4,7 +4,8 @@
 The handle's shamelessly 'adopted' from my favourite map in _id Software's_ **Quake 3 Arena**, which is a convenient segue into...
 
 The last decade I've spent full-time in the esports industry, with roots in organising and running some of the largest LAN Party tournaments in the world.
-Untangling spaghetti networking, streamlining gameservers, re-writing configs, building UDP consumers mid-way through an event.
+
+Untangling spaghetti networks, streamlining gameservers, re-writing configs, building UDP consumers mid-way through an event, all just a day in the life.
 
 Solving and refining complex solutions in production was always the name of the game, and is exactly why I've settled into software development so comfortably.
 
