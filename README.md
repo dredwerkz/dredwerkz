@@ -11,19 +11,19 @@ Solving and refining complex solutions in production was always the name of the 
 
 ## Some projects I've been working on recently:
 
-  - 📚 bookmarkd & its backend <sup>- _a School of Code final project_</sup>
+  - 📚 bookmarkd & its backend <sup>// _a School of Code final project_</sup>
     - React
     - Express
     - Node
     - Tailwind CSS
     - supabase
     - PostgreSQL
-  - 🖥 As-Of-Yet-Unnamed Counter-Strike 2 server manager & admin panel <sup>- _The tool I wish I had while working in esports_</sup>
+  - 🖥 As-Of-Yet-Unnamed Counter-Strike 2 server manager & admin panel <sup>// _The tool I wish I had while working in esports_</sup>
     - React
     - Express
     - Node
     - WebSocket
-  - 🏆 As-Of-Yet-Unnamed Discord-integrated tournament platform <sup>- _I've used everyone else's platform, now I'm making my own_</sup>
+  - 🏆 As-Of-Yet-Unnamed Discord-integrated tournament platform <sup>// _I've used everyone else's platform, now I'm making my own_</sup>
     - Express
     - Node
     - WebSocket
