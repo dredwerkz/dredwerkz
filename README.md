@@ -23,6 +23,7 @@ Solving and refining complex solutions in production was always the name of the 
     - Node
     - WebSocket
   - 🏆 As-Of-Yet-Unnamed Discord-integrated tournament platform <sup>// _I've used everyone else's platform, now I'm making my own_</sup>
+    - TypeScript
     - Express
     - Node
     - WebSocket
