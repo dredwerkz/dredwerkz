@@ -1,5 +1,4 @@
-<sup>$ git stash</sup>
-
+<sup>$ git stash</sup><br />
 <sup>$ git checkout -b github_readme_final2</sup>
 
 ## Hey, I'm Jon.
