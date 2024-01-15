@@ -1,6 +1,6 @@
-$ git stash
+<sup>$ git stash</sup>
 
-$ git checkout -b github_readme_final2
+<sup>$ git checkout -b github_readme_final2</sup>
 
 ## Hey, I'm Jon.
 
@@ -32,4 +32,6 @@ Solving and refining complex solutions in production was always the name of the 
     - WebSocket
     - PostgreSQL
 
-$ git commit -a -m "descriptive commit message"
+
+
+<sup>$ git commit -a -m "descriptive commit message"</sup>
