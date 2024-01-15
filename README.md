@@ -16,12 +16,11 @@ Solving and refining complex solutions in production was always the name of the 
     - Node
     - Tailwind CSS
     - supabase
-    - PostgreSQL
   - 🖥 As-Of-Yet-Unnamed Counter-Strike 2 server manager & admin panel <sup>// _The tool I wish I had while working in esports_</sup>
     - React
     - Express
     - Node
-    - WebSocket
+    - UDP
   - 📼 Delta Green Secure Terminal <sup>// _An asymetrical live platform for playing the Delta Green tabletop role playing game over the internet_</sup>
     - TypeScript
     - Express
