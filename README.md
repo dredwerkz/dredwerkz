@@ -22,7 +22,7 @@ Solving and refining complex solutions in production was always the name of the 
     - Express
     - Node
     - WebSocket
-  - 📼 Delta Green Secure Terminal <sup>// _An symettrical live platform for playing the Delta Green tabletop role playing game over the internet_</sup>
+  - 📼 Delta Green Secure Terminal <sup>// _An asymetrical live platform for playing the Delta Green tabletop role playing game over the internet_</sup>
     - TypeScript
     - Express
     - Node
