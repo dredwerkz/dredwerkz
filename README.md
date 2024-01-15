@@ -5,11 +5,11 @@
 
 The handle ***dredwerkz*** was shamelessly 'adopted' from my favourite map in _id Software's_ **Quake 3 Arena**, which serves here as a convenient segue into...
 
-...the last decade I've spent full-time in the esports industry, with roots in organising and running some of the largest LAN Party tournaments in the world.
+...the last decade I spent full-time in the esports industry, where I organised and ran some of the largest LAN tournaments in the world.
 
-Untangling spaghetti networks, streamlining gameservers, re-writing configs, building UDP consumers mid-way through an event, all just a day in the life.
+Untangling spaghetti networks, streamlining game-servers, re-writing configs, building UDP consumers mid-way through an event, somehow just all a day in the life.
 
-Solving and refining complex solutions in production was always the name of the game, and is exactly why I've loved diving into software development.
+Solving and refining complex solutions in production has always been the name of the game, and is exactly why I've loved diving into software development.
 
 ## Some projects I've been working on recently:
 
