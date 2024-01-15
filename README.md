@@ -1,3 +1,6 @@
+$ git stash
+$ git checkout -b github_readme_final2
+
 ## Hey, I'm Jon.
 
 The handle ***dredwerkz*** was shamelessly 'adopted' from my favourite map in _id Software's_ **Quake 3 Arena**, which serves here as a convenient segue into...
@@ -27,3 +30,5 @@ Solving and refining complex solutions in production was always the name of the 
     - Node
     - WebSocket
     - PostgreSQL
+
+$ git commit -a -m "descriptive commit message"
