@@ -3,9 +3,9 @@
 
 ## Hey, I'm Jon.
 
-The handle ***dredwerkz*** was shamelessly 'adopted' from my favourite map in _id Software's_ **Quake 3 Arena**, which serves here as a convenient segue into...
+The handle ***dredwerkz*** was shamelessly 'adopted' from my favourite map in _id Software's_ **Quake 3 Arena**, which serves here as a convenient segue into..
 
-...the last decade I spent full-time in the esports industry, where I organised and ran some of the largest LAN tournaments in the world.
+..the last decade I spent full-time in the esports industry, where I organised and ran some of the largest LAN tournaments in the world.
 
 Untangling spaghetti networks, streamlining game-servers, re-writing configs, building UDP consumers mid-way through an event, somehow just all a day in the life.
 
