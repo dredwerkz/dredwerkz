@@ -19,7 +19,7 @@ Solving and refining complex solutions in production has always been the name of
     - Node
     - Tailwind CSS
     - supabase
-  - 🖥 As-Of-Yet-Unnamed Counter-Strike 2 server manager & admin panel <sup>// _The tool I wish I had while working in esports_</sup>
+  - 🖥 Horizon CS2 Server Manager & Admin Panel <sup>// _The tool I wish I had while working in esports_</sup>
     - React
     - Express
     - Node
