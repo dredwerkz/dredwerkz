@@ -24,7 +24,7 @@ Solving and refining complex solutions in production has always been the name of
     - Express
     - Node
     - UDP
-  - 📼 Delta Green Secure Terminal <sup>// _An asymetrical live platform for playing the Delta Green tabletop role playing game over the internet_</sup>
+  - 📼 Delta Green Secure Terminal <sup>// _An asymmetrical live platform for playing the Delta Green tabletop role playing game over the internet_</sup>
     - TypeScript
     - Express
     - Node
