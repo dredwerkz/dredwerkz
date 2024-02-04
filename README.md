@@ -37,6 +37,9 @@ I've recently been working in primarily JavaScript and TypeScript but I've been 
     - Express
     - Node
     - UDP
+    - WebSocket
+    - EventEmitter
+    - PostgreSQL
   - 📼 Delta Green Secure Terminal <sup>// _An asymmetrical live platform for playing the Delta Green tabletop role playing game over the internet_</sup>
     - TypeScript
     - Express
