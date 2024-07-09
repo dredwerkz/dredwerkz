@@ -15,7 +15,7 @@ Personal projects a bit dead for now, and hopefully I'll be able to talk about w
 
 ---
 
-## Some personal projects that got me started in webdev: (One day I might even finish some!)
+## Some personal projects that got me started in webdev: (One day I might even finish them!)
 
   - 📚 bookmarkd & its backend <sup>// _a School of Code final project_</sup>
     - React
