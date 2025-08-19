@@ -55,7 +55,7 @@ There's a bunch of projects here that I'm slowly chipping away at, from games-re
 
 ---
 
-## Some personal projects that got me started in webdev: (One day I might even finish them!)
+## Some of the repos I've got, summarised: (One day I might even finish them!)
 
   - 📚 bookmarkd & its backend <sup>// _a School of Code final project_</sup>
     - React
