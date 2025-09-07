@@ -55,31 +55,4 @@ There's a bunch of projects here that I'm slowly chipping away at, from games-re
 
 ---
 
-## Some of the repos I've got, summarised: (One day I might even finish them!)
-
-  - 📚 bookmarkd & its backend <sup>// _a School of Code final project_</sup>
-    - React
-    - Express
-    - Node
-    - Tailwind CSS
-    - supabase
-  - 🖥 Horizon CS2 Server Manager & Admin Panel <sup>// _The tool I wish I had while working in esports_</sup>
-    - React
-    - Express
-    - Node
-    - UDP
-    - WebSocket
-    - EventEmitter
-    - PostgreSQL
-  - 📼 Delta Green Secure Terminal <sup>// _An asymmetrical live platform for playing the Delta Green tabletop role playing game over the internet_</sup>
-    - TypeScript
-    - Express
-    - Node
-    - WebSocket
-    - PostgreSQL
-   
----
-
-
-
 <sup>$ git commit -a -m "descriptive commit message"</sup>
